@@ -2,20 +2,20 @@
   <img src="./Assets/Dave.JPG"  />
 </p>
 
-# Mateo Rodriguez
+# MATEO RODRIGUEZ
 
 
 
 
 >Full Stack Developer + Graphic Designer + Video Production
 
-## Introduction
+### INTRODUCTION
 
 
  >Mateo is a Full Stack Developer with a background in graphic design based in Denver, CO. Clean dark theme front-end design is his specialty. Additionally, he utilizes his experience in graphic design, photography, and video skills to create unique content for promo and engagement.
 
 
-## Skills
+### SKILLS
  >React.js, JavaScript, Node.js, SQL, MongoDB, + more!
 
 --- 
