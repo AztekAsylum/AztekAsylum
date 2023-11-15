@@ -20,4 +20,5 @@
 
 --- 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateo%20Rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-bolty/)](https://www.linkedin.com/in/mateo-rodriguez-86aba5aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mateo%20Rodriguez-rgb(255%2C83%2C34)?style=social&logo=linkedin&labelColor=255%2C83%2C34&color=%23ff5322&link=https%3A%2F%2Fwww.instagram.com%2Fmateoxrodriguez%2F
+)](https://www.linkedin.com/in/mateo-rodriguez-86aba5aa/) &nbsp; &nbsp; &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Mateo%20Rodriguez-rgb(255%2C83%2C34)?style=social&logo=instagram&labelColor=255%2C83%2C34&color=%23ff5322&link=https%3A%2F%2Fwww.instagram.com%2Fmateoxrodriguez%2F)](https://www.instagram.com/mateoxrodriguez/)
