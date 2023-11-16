@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/ProvokerEdit444.gif"  />
+  <img src="./Assets/ProvokerEdit444.gif" width="9999" height="300" />
 </p>
 
 # MATEO RODRIGUEZ
