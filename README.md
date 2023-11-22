@@ -12,7 +12,7 @@
 
 ## Skills
 
-> React.js, JavaScript, Node.js, SQL, MongoDB, + more!
+> React.js, JavaScript, Node.js, SQL, CSS3, Espress.js, HTML5, MongoDB, + more!
 
 ---
 
