@@ -8,7 +8,7 @@
 
 ## Introduction
 
-> I am a creative Front End Developer with a background in graphic design based in Denver, CO. Clean front-end design is my speciality. Additionally, I utilize my experience in graphic design, photography, and video skills to create unique content for promo and engagement. Through my creative process I’ve learned to adapt with a hard work ethic and enjoy the process of working with others along the way.
+> Creative Front End Developer with a background in graphic design and a specialization in clean front-end design. Experience honed in graphic design, photography, and videography facilitates the creation of unique content for promotional purposes and engagement. Through the creative process, adaptation with a strong work ethic is manifested, and the enjoyment of collaborating with others is a constant along the journey.
 
 ## Skills
 
